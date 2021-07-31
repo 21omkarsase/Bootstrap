@@ -1,0 +1,73 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+.footer {
+  background-color: #d1c4e9;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background-color: rgba(165, 16, 202, 0.767);
+  color: floralwhite;
+}
+.address {
+  font-size: 80%;
+  margin: 0px;
+  columns: black;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+.navbar-dark {
+  background-color: #512dab;
+}
+
+.chef-photo {
+  height: 150px;
+}
+.reserve {
+  text-decoration: none;
+  list-style: none;
+}
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
+.login {
+  cursor: pointer;
+}
+.carousel {
+  background: #512dab;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+.carousel-content {
+  top: 60px;
+}
+
+#carousel-button {
+  right: 0;
+  bottom: 0;
+  position: absolute;
+}
